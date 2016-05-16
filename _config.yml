@@ -1,0 +1,28 @@
+name: Mauhan
+favicon: null
+layout_spectrum: 0.2610911673400551
+typography_spectrum: 0.3523333144839853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.49949827534146607
+  lightness: 0.018106014700606465
+  saturation: 0.42496393504552543
+  rhythmicContrast: 0.984655006788671
+purpose: []
